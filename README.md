@@ -1,2 +1,1 @@
-# stealcookiesxss
-yupp
+steal xss with reflected xss

